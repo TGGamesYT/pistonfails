@@ -8,4 +8,4 @@ This is a client-side Minecraft mod for 26.3 fabric that visualizes what and how
 - right clicking any block while a piston is in the hand shows the highlight of what whould happen if a piston pushed thoose blocks in the direction you are facing
 - modifying a highlighted area while still highlighted updates the highlight
 
-![Piston Fails showcase](./src/main/assets/pistonfails/pistonfails.gif)
+![Piston Fails showcase](https://github.com/TGGamesYT/pistonfails/blob/main/src/main/resources/assets/pistonfails/pistonfails.gif?raw=true)
